@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to left, darkblue, darkred);
+    font-family: Algerian;
+}
+h1 {
+    color: white;
+    font-size: 40px;
+}
+table {
+    margin: auto;
+}
+th {
+    color: white;
+}
+input {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+button {
+    min-width: 120px;
+    margin: 20px 10px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    
+}
+.countdown {
+    display: flex;
+    justify-content: center;
+}
+.heading {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.time {
+    background-color: grey;
+    color: white;
+    font-size: 100px;
+    width: 120px;
+    margin: 0 10px;
+    border-radius: 50px;
+}
